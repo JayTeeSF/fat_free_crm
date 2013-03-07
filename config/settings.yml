@@ -82,7 +82,7 @@
 #   true  -- use separate street1, street2, city, state, zipcode, and country field.
 #   false -- use single text area field to enter the entire address. This is the default.
 #
-:compound_address: false
+:compound_address: true
 
 # Dropdown calendar format.
 #------------------------------------------------------------------------------
@@ -91,7 +91,7 @@
 #   true  -- allow selecting date and time.
 #   false -- allow selecting date only. This is the default.
 #
-task_calendar_with_time: false
+task_calendar_with_time: true
 
 # Sets the email dropbox feature, this are the connections settings for 
 # the imap account, server and folders.

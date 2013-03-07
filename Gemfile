@@ -1,5 +1,4 @@
-source 'http://gemcutter.org'
-# source "http://rubygems.org"
+source 'http://rubygems.org'
 gem 'rake', '0.8.7'
 gem 'will_paginate', '2.3.14'
 gem 'faker', '0.3.1'
